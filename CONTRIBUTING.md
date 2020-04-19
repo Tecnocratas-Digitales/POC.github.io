@@ -21,7 +21,7 @@ Esta sección contiene las normas generales para escribir y mantener el blog.
 
 ### Consejos
 
-* Se recomienda usar Visual Code (IDE opensource y modular) con la extensión `markdownlint`
+* Se recomienda usar Visual Studio Code (IDE opensource y modular) con la extensión `markdownlint`
 * Puedas usar Atom, vim, o tu favorito, siempre que cumplas el linting.
  
 ## Publicación
@@ -76,5 +76,5 @@ Si vienes para publicar puedes ignorarla.
     * [ ] Pide feedback a los otros desarrolladores cuando sea necesario.
 * [ ] Integración
     * [ ] Solicita revisión a los colaboradores.
-    * [ ] Comprueba el linting y los tests-
+    * [ ] Comprueba el linting y los tests.
     * [ ] Cuando el cambio sea aprobado, pulsa en Merge Pull Request.
