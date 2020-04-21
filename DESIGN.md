@@ -1,8 +1,8 @@
 # Requisitos Funcionales (Casos de uso)
 
-El blog que aglutine a la comunidad de Tecnócratas Digitales (de aquí en adelante TD) contempla curbrir lo siguientes objetivos principales:
+El blog que aglutine a la comunidad de Tecnócratas Digitales (de aquí en adelante TD) contempla cubrir lo siguientes objetivos principales:
 
-1. Ofrecer a autores de blogs conselidados una comunidad más amplia que aumente el número de lectores
+1. Ofrecer a autores de blogs consolidados una comunidad más amplia que aumente el número de lectores
 2. Ofrecer un espacio a autores que quieran publicar de manera esporádica en un espacio carácter técnico como pretende ser TD
 
 
