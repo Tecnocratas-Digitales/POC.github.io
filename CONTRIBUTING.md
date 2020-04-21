@@ -1,6 +1,6 @@
 # Contributing
 
-Esta guia te va a instruir en los guidelines establecidos en Tecnócratas Digitales.
+Esta guía te va a instruir en los guidelines establecidos en Tecnócratas Digitales.
 
 ## General
 
@@ -13,11 +13,11 @@ Esta sección contiene las normas generales para escribir y mantener el blog.
 * Para crear un nuevo post se deberá seguir las `Normas de publicación`
  establecidas más abajo siguiendo los `Guidelines de publicación`.
 * Antes de aceptar un Pull request a master es necesaria una aprobación de request.
- Está Configurado en Github para ser estrictamente necesario.
+ Está configurado en Github para ser estrictamente necesario.
 * Sé siempre educado.
 * Acepta las críticas constructivas.
-* Evita EL USO DE MAYUSCULAS para dar enfásis en las discusiones.
-* Solo abre un merge request a la vez. No los uses como borrador de articulos.
+* Evita EL USO DE MAYÚSCULAS para dar enfásis en las discusiones.
+* Solo abre un merge request a la vez. No los uses como borrador de artículos.
 
 ### Consejos
 
@@ -26,23 +26,23 @@ Esta sección contiene las normas generales para escribir y mantener el blog.
  
 ## Publicación
 
-Esta sección es de obligado cumplimento a la hora de colaborar escribiendo articulos con
+Esta sección es de obligado cumplimento a la hora de colaborar escribiendo artículos con
 Tecnócratas Digitales.
 
 ### Normas de publicación
 
-* Elección de articulo.
-    * Comenta de que va a tratar.
-    * Asegurate que el articulo aporta valor.
-* Redacción del articulo.
+* Elección de artículo.
+    * Comenta de qué va a tratar.
+    * Asegurate que el artículo aporta valor.
+* Redacción del artículo.
     * Utiliza material propio.
-    * Si te basas en datos y articulos, añadelos en la sección de Bibliografia después del articulo.
+    * Si te basas en datos y artículos, añádelos en la sección de Bibliografía después del artículo.
     * Respeta las normas de linting.
 
 ### Guidelines de publicación
 
-* [ ] Sugiere el articulo al resto.
-* [ ] Redactalo a tu gusto.
+* [ ] Sugiere el artículo al resto.
+* [ ] Redáctalo a tu gusto.
 * [ ] Pide revisión.
 * [ ] Publícalo.
 
@@ -58,8 +58,8 @@ Si vienes para publicar puedes ignorarla.
 * Durante el Desarrollo
     * Haz los cambios pertinentes en commits atómicos.
     * Pide feedback a los otros desarrolladores cuando sea necesario.
-    * Comprueba que se cumplen las reglas de linting
-* Comprueba que todo sigue funcionando antes de merguear.
+    * Comprueba que se cumplen las reglas de linting.
+* Comprueba que todo sigue funcionando antes de mergear.
 
 ### Guidelines de desarrollo de features del blog
 
