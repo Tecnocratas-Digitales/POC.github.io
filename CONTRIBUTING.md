@@ -9,20 +9,20 @@ Esta sección contiene las normas generales para escribir y mantener el blog.
 ### Normas generales
 
 * El idioma oficial de los post y los guidelines es el castellano.
-* Toda parte hecha con código, incluidos los comentarios, será hecho en Inglés.
+* Toda parte hecha con código, incluidos los comentarios, será hecho en inglés.
 * Para crear un nuevo post se deberá seguir las `Normas de publicación`
  establecidas más abajo siguiendo los `Guidelines de publicación`.
-* Antes de aceptar un Pull request a master es necesaria una aprobación de request.
- Está configurado en Github para ser estrictamente necesario.
+* Antes de aceptar un Pull Request a master, es necesaria una aprobación del PR.
+ Está configurado en Github para que sea estrictamente necesario.
 * Sé siempre educado.
 * Acepta las críticas constructivas.
 * Evita EL USO DE MAYÚSCULAS para dar enfásis en las discusiones.
-* Solo abre un merge request a la vez. No los uses como borrador de artículos.
+* Sólo abre un PR a la vez. No los uses como borrador de artículos.
 
 ### Consejos
 
 * Se recomienda usar Visual Studio Code (IDE opensource y modular) con la extensión `markdownlint`
-* Puedas usar Atom, vim, o tu favorito, siempre que cumplas el linting.
+* Puedes usar Atom, Vim, o tu editor favorito, siempre que cumplas el linting.
  
 ## Publicación
 
@@ -33,15 +33,15 @@ Tecnócratas Digitales.
 
 * Elección de artículo.
     * Comenta de qué va a tratar.
-    * Asegurate que el artículo aporta valor.
+    * Asegúrate que el artículo aporta valor.
 * Redacción del artículo.
-    * Utiliza material propio.
-    * Si te basas en datos y artículos, añádelos en la sección de Bibliografía después del artículo.
+    * Utiliza material propio en la medida de lo posible.
+    * Si te basas en datos y artículos, añadelos en la sección de Bibliografía después del artículo.
     * Respeta las normas de linting.
 
 ### Guidelines de publicación
 
-* [ ] Sugiere el artículo al resto.
+* [ ] Sugiere el artículo en Tecnócratás Digitales.
 * [ ] Redáctalo a tu gusto.
 * [ ] Pide revisión.
 * [ ] Publícalo.
