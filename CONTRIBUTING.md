@@ -12,11 +12,11 @@ Esta sección contiene las normas generales para escribir y mantener el blog.
 * Toda parte hecha con código, incluidos los comentarios, será hecho en inglés.
 * Para crear un nuevo post se deberá seguir las `Normas de publicación`
  establecidas más abajo siguiendo los `Guidelines de publicación`.
-* Antes de aceptar un Pull request a master, es necesaria una aprobación del PR.
+* Antes de aceptar un Pull Request a master, es necesaria una aprobación del PR.
  Está configurado en Github para que sea estrictamente necesario.
 * Sé siempre educado.
 * Acepta las críticas constructivas.
-* Evita EL USO DE MAYUSCULAS para dar enfásis en las discusiones.
+* Evita EL USO DE MAYÚSCULAS para dar enfásis en las discusiones.
 * Sólo abre un PR a la vez. No los uses como borrador de artículos.
 
 ### Consejos
@@ -36,7 +36,7 @@ Tecnócratas Digitales.
     * Asegúrate que el artículo aporta valor.
 * Redacción del artículo.
     * Utiliza material propio en la medida de lo posible.
-    * Si te basas en datos y artículos, añadelos en la sección de Bibliografia después del artículo.
+    * Si te basas en datos y artículos, añadelos en la sección de Bibliografía después del artículo.
     * Respeta las normas de linting.
 
 ### Guidelines de publicación
@@ -58,7 +58,7 @@ Si vienes para publicar puedes ignorarla.
 * Durante el Desarrollo
     * Haz los cambios pertinentes en commits atómicos.
     * Pide feedback a los otros desarrolladores cuando sea necesario.
-    * Comprueba que se cumplen las reglas de linting
+    * Comprueba que se cumplen las reglas de linting.
 * Comprueba que todo sigue funcionando antes de mergear.
 
 ### Guidelines de desarrollo de features del blog
